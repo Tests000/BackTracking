@@ -1,0 +1,10 @@
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\bin\Release\BackTracking.exe.config
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\bin\Release\BackTracking.exe
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\bin\Release\BackTracking.pdb
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.csproj.AssemblyReference.cache
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.Form1.resources
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.Properties.Resources.resources
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.csproj.GenerateResource.cache
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.csproj.CoreCompileInputs.cache
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.exe
+C:\Users\vrntu\source\repos\BackTracking\BackTracking\obj\Release\BackTracking.pdb
